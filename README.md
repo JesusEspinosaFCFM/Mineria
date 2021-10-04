@@ -18,6 +18,5 @@
 
 [Código presentación técnicas de minería de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
 
-[Visualización de datos]()
+[Segundo avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
 
-[Segundo avance PIA]()
