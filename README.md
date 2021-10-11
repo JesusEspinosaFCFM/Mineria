@@ -22,3 +22,4 @@
 
 [Segundo avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
 
+[Ejercicio técnicas de minería]()
